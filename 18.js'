@@ -1,0 +1,4 @@
+let second = 25;
+let minute = 33;
+let hour = 15;
+alert("Время: " + hour + ":" + minute + ":" + second);
